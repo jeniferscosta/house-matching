@@ -3,5 +3,6 @@
     "expo-font"
   ],
   "name": "my-app-react-native-elements",
-  "slug": "my-app-react-native-elements"
+  "slug": "my-app-react-native-elements",
+  "newArchEnabled": true
 }
